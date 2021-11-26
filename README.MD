@@ -21,7 +21,7 @@ My Device:
 ## How to do?
 
 [device-access](https://developers.google.com/nest/device-access/get-started#set_up_google_cloud_platform) should be the solution. 
-The idea is to obtain the ultrasounds sensing information (0/1) and make the action based on that.
+The idea is to obtain the ultrasounds sensing information (0/1) and do the action based on that.
 
 - [x] pay the 5$ registeration fee
 - [ ] create an project and develop
