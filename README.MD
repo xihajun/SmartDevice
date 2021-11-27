@@ -27,3 +27,8 @@ The idea is to obtain the ultrasounds sensing information (0/1) and do the actio
 - [ ] create an project and develop
 - [ ] idk
 - [ ] idk
+
+
+## API
+- Smart Device Management API
+- Cloud Pub/Sub API
