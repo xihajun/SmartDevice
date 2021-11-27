@@ -9,7 +9,7 @@ Supported Device:
 - Google Nest Hub Max
 
 
-**Conclusion: impossible at this moment**
+**Conclusion: maybe impossible at this moment**
 
 
 My Device:
@@ -32,3 +32,4 @@ The idea is to obtain the ultrasounds sensing information (0/1) and do the actio
 ## API
 - Smart Device Management API
 - Cloud Pub/Sub API
+- [dialogflow](https://dialogflow.cloud.google.com/#/agent/exploration-8b2f5/prebuiltAgents/) maybe check this out
