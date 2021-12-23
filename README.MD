@@ -1,5 +1,13 @@
 # SmartDevice
 
+Okay, I am back (23/12/2021) because I found this lovely package: [pychromecast](https://github.com/home-assistant-libs/pychromecast)
+
+
+
+
+-----------------------------------------------------
+
+
 This project is trying to make smart device smarter, however, sadly, I don't have the supported devices at this moment! @google
 
 Supported Device:
